@@ -1,0 +1,40 @@
+
+iconButtons.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+playButton
+  rotate: false
+  xy: 1, 178
+  size: 230, 175
+  orig: 230, 175
+  offset: 0, 0
+  index: -1
+rateButton
+  rotate: false
+  xy: 1, 1
+  size: 230, 175
+  orig: 230, 175
+  offset: 0, 0
+  index: -1
+homeButton
+  rotate: false
+  xy: 233, 178
+  size: 220, 175
+  orig: 220, 175
+  offset: 0, 0
+  index: -1
+menuButton
+  rotate: false
+  xy: 233, 1
+  size: 220, 175
+  orig: 220, 175
+  offset: 0, 0
+  index: -1
+replayButton
+  rotate: false
+  xy: 455, 178
+  size: 220, 175
+  orig: 220, 175
+  offset: 0, 0
+  index: -1

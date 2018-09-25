@@ -1,0 +1,33 @@
+
+levelButtons.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+beginner
+  rotate: false
+  xy: 1, 357
+  size: 602, 177
+  orig: 602, 177
+  offset: 0, 0
+  index: -1
+expert
+  rotate: false
+  xy: 1, 178
+  size: 602, 177
+  orig: 602, 177
+  offset: 0, 0
+  index: -1
+intermediate
+  rotate: false
+  xy: 1, 1
+  size: 602, 175
+  orig: 602, 175
+  offset: 0, 0
+  index: -1
+homeButton
+  rotate: false
+  xy: 605, 359
+  size: 220, 175
+  orig: 220, 175
+  offset: 0, 0
+  index: -1

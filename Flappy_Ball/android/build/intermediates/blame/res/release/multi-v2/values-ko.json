@@ -1,0 +1,230 @@
+{
+    "logs": [
+        {
+            "outputFile": "/media/the_spartan/A2108CEA108CC6AF/Users/Spartan/Desktop/Flappy Ball/android/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-ko/values-ko.xml",
+            "map": [
+                {
+                    "source": "/home/the_spartan/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-26.1.0.aar/59ce817b04df9382062561380bfb2ce4/res/values-ko/values-ko.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,149,243,339,438,526,607,694,789,882,972,1061,1150,1250,1351,1434,1513,1592,1683,1777,1860",
+                        "endColumns": "93,93,95,98,87,80,86,94,92,89,88,88,99,100,82,78,78,90,93,82,88",
+                        "endOffsets": "144,238,334,433,521,602,689,784,877,967,1056,1145,1245,1346,1429,1508,1587,1678,1772,1855,1944"
+                    },
+                    "to": {
+                        "startLines": "83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99,100,101,102,103",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "8345,8439,8533,8629,8728,8816,8897,8984,9079,9172,9262,9351,9440,9540,9641,9724,9803,9882,9973,10067,10150",
+                        "endColumns": "93,93,95,98,87,80,86,94,92,89,88,88,99,100,82,78,78,90,93,82,88",
+                        "endOffsets": "8434,8528,8624,8723,8811,8892,8979,9074,9167,9257,9346,9435,9535,9636,9719,9798,9877,9968,10062,10145,10234"
+                    }
+                },
+                {
+                    "source": "/home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-cast-12.0.1.aar/7f2aead5c45aee78ae64fe284ad9cd53/res/values-ko/values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7",
+                        "startColumns": "0,0,0,0",
+                        "startOffsets": "250,379,510,608",
+                        "endColumns": "128,130,97,88",
+                        "endOffsets": "378,509,607,696"
+                    },
+                    "to": {
+                        "startLines": "36,37,38,39",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "3370,3499,3630,3732",
+                        "endColumns": "128,130,101,92",
+                        "endOffsets": "3494,3625,3727,3820"
+                    }
+                },
+                {
+                    "source": "/home/the_spartan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/503d80080e8e788ebc7552666e3806dc/res/values-ko/values-ko.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,200,294,396,478,576,682,761,837,917,1015,1110,1205,1305,1401,1500,1652,1746",
+                        "endColumns": "94,93,101,81,97,105,78,75,79,97,94,94,99,95,98,151,93,77",
+                        "endOffsets": "195,289,391,473,571,677,756,832,912,1010,1105,1200,1300,1396,1495,1647,1741,1819"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,113",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,200,294,396,478,576,682,761,837,917,1015,1110,1205,1305,1401,1500,1652,10948",
+                        "endColumns": "94,93,101,81,97,105,78,75,79,97,94,94,99,95,98,151,93,77",
+                        "endOffsets": "195,289,391,473,571,677,756,832,912,1010,1105,1200,1300,1396,1495,1647,1741,11021"
+                    }
+                },
+                {
+                    "source": "/home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-places-12.0.1.aar/63d39f5255f29791fc00e9647f3e494d/res/values-ko/values.xml",
+                    "from": {
+                        "startLines": "4,5",
+                        "startColumns": "0,0",
+                        "startOffsets": "195,289",
+                        "endColumns": "93,87",
+                        "endOffsets": "288,376"
+                    },
+                    "to": {
+                        "startLines": "104,105",
+                        "startColumns": "4,4",
+                        "startOffsets": "10239,10337",
+                        "endColumns": "97,91",
+                        "endOffsets": "10332,10424"
+                    }
+                },
+                {
+                    "source": "/home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/08175c504ad2d10f5dfd5f085a61a8ee/res/values-ko/values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
+                        "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
+                        "startOffsets": "245,347,518,632,732,906,1021,1154,1274,1478,1579,1746,1862,2039,2184,2269,2353",
+                        "endColumns": "101,170,113,99,173,114,132,119,203,100,166,115,176,144,84,83,99",
+                        "endOffsets": "346,517,631,731,905,1020,1153,1273,1477,1578,1745,1861,2038,2183,2268,2352,2452"
+                    },
+                    "to": {
+                        "startLines": "58,59,60,61,62,63,64,65,67,68,69,70,71,72,73,74,75",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "5414,5520,5691,5809,5913,6087,6206,6343,6647,6851,6956,7123,7243,7420,7569,7658,7746",
+                        "endColumns": "105,170,117,103,173,118,136,123,203,104,166,119,176,148,88,87,103",
+                        "endOffsets": "5515,5686,5804,5908,6082,6201,6338,6462,6846,6951,7118,7238,7415,7564,7653,7741,7845"
+                    }
+                },
+                {
+                    "source": "/home/the_spartan/.gradle/caches/transforms-1/files-1.1/easyratingdialog-1.1.2.aar/2cffe0e5429b4de24ecaa9444614f0bf/res/values-ko/values-ko.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,152,205,252,307",
+                        "endColumns": "96,52,46,54,43",
+                        "endOffsets": "147,200,247,302,346"
+                    },
+                    "to": {
+                        "startLines": "76,77,78,79,80",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "7850,7947,8000,8047,8102",
+                        "endColumns": "96,52,46,54,43",
+                        "endOffsets": "7942,7995,8042,8097,8141"
+                    }
+                },
+                {
+                    "source": "/home/the_spartan/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/31cd1e6e217e040c34f215dd71337cee/res/values-ko/values-ko.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "114",
+                        "startColumns": "4",
+                        "startOffsets": "11026",
+                        "endColumns": "100",
+                        "endOffsets": "11122"
+                    }
+                },
+                {
+                    "source": "/home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-messaging-12.0.1.aar/1516da3490d62fe727161e6b90a7846f/res/values-ko/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "205",
+                        "endColumns": "96",
+                        "endOffsets": "301"
+                    },
+                    "to": {
+                        "startLines": "81",
+                        "startColumns": "4",
+                        "startOffsets": "8146",
+                        "endColumns": "100",
+                        "endOffsets": "8242"
+                    }
+                },
+                {
+                    "source": "/home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-wallet-12.0.1.aar/e4cafea61da7c59efaecde08019f889b/res/values-ko/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "202",
+                        "endColumns": "94",
+                        "endOffsets": "296"
+                    },
+                    "to": {
+                        "startLines": "115",
+                        "startColumns": "4",
+                        "startOffsets": "11127",
+                        "endColumns": "98",
+                        "endOffsets": "11221"
+                    }
+                },
+                {
+                    "source": "/home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.1.aar/512d9e5e323cfb11ddfddd5013ba736f/res/values-ko/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "247",
+                        "endColumns": "179",
+                        "endOffsets": "426"
+                    },
+                    "to": {
+                        "startLines": "66",
+                        "startColumns": "4",
+                        "startOffsets": "6467",
+                        "endColumns": "179",
+                        "endOffsets": "6642"
+                    }
+                },
+                {
+                    "source": "/home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-12.0.1.aar/3d5028d4146a746f877d8daeede3056f/res/values-ko/values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38",
+                        "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
+                        "startOffsets": "260,331,417,495,591,711,787,917,1020,1121,1230,1323,1421,1492,1570,1648,1752,1820,1890,1957,2027,2104,2181,2256,2338,2420,2487,2575,2666,2757,2857,2998,3087,3174,3268",
+                        "endColumns": "70,85,77,95,119,75,129,102,100,108,92,97,70,77,77,103,67,69,66,69,76,76,74,81,81,66,87,90,90,99,140,88,86,93,72",
+                        "endOffsets": "330,416,494,590,710,786,916,1019,1120,1229,1322,1420,1491,1569,1647,1751,1819,1889,1956,2026,2103,2180,2255,2337,2419,2486,2574,2665,2756,2856,2997,3086,3173,3267,3340"
+                    },
+                    "to": {
+                        "startLines": "19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "1746,1821,1911,1993,2093,2213,2293,2427,2534,2639,2752,2849,2951,3026,3108,3190,3298,3825,3899,3970,4044,4125,4206,4285,4371,4457,4528,4620,4715,4810,4914,5055,5148,5239,5337",
+                        "endColumns": "74,89,81,99,119,79,133,106,104,112,96,101,74,81,81,107,71,73,70,73,80,80,78,85,85,70,91,94,94,103,140,92,90,97,76",
+                        "endOffsets": "1816,1906,1988,2088,2208,2288,2422,2529,2634,2747,2844,2946,3021,3103,3185,3293,3365,3894,3965,4039,4120,4201,4280,4366,4452,4523,4615,4710,4805,4909,5050,5143,5234,5332,5409"
+                    }
+                },
+                {
+                    "source": "/home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-ads-12.0.1.aar/ddbedd5afec2aac835e1291d8d24ce68/res/values-ko/values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10",
+                        "startColumns": "0,0,0,0,0,0,0",
+                        "startOffsets": "199,262,353,413,473,541,626",
+                        "endColumns": "62,90,59,59,67,84,63",
+                        "endOffsets": "261,352,412,472,540,625,689"
+                    },
+                    "to": {
+                        "startLines": "106,107,108,109,110,111,112",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "10429,10496,10591,10655,10719,10791,10880",
+                        "endColumns": "66,94,63,63,71,88,67",
+                        "endOffsets": "10491,10586,10650,10714,10786,10875,10943"
+                    }
+                },
+                {
+                    "source": "/home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-gcm-12.0.1.aar/6a91075109a037a1f4c010ea8f460085/res/values-ko/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "192",
+                        "endColumns": "93",
+                        "endOffsets": "285"
+                    },
+                    "to": {
+                        "startLines": "82",
+                        "startColumns": "4",
+                        "startOffsets": "8247",
+                        "endColumns": "97",
+                        "endOffsets": "8340"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,982 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /media/the_spartan/A2108CEA108CC6AF/Users/Spartan/Desktop/Flappy Ball/android/AndroidManifest.xml:2:1-38:12
+INJECTED from /media/the_spartan/A2108CEA108CC6AF/Users/Spartan/Desktop/Flappy Ball/android/AndroidManifest.xml:2:1-38:12
+INJECTED from /media/the_spartan/A2108CEA108CC6AF/Users/Spartan/Desktop/Flappy Ball/android/AndroidManifest.xml:2:1-38:12
+INJECTED from /media/the_spartan/A2108CEA108CC6AF/Users/Spartan/Desktop/Flappy Ball/android/AndroidManifest.xml:2:1-38:12
+MERGED from [com.android.support:multidex:1.0.2] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/c366cf31dc89052637399ba8c299c5b6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.fernandodev.easyratingdialog:easyratingdialog:1.1.2] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/easyratingdialog-1.1.2.aar/2cffe0e5429b4de24ecaa9444614f0bf/AndroidManifest.xml:2:1-12:12
+MERGED from [com.google.android.gms:play-services:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-12.0.1.aar/e871c29dcd6410ba72c0a8ebc1ed3e4d/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-cast-framework:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-12.0.1.aar/3d5028d4146a746f877d8daeede3056f/AndroidManifest.xml:2:1-14:12
+MERGED from [com.google.android.gms:play-services-cast:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-cast-12.0.1.aar/7f2aead5c45aee78ae64fe284ad9cd53/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:mediarouter-v7:26.1.0] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-26.1.0.aar/59ce817b04df9382062561380bfb2ce4/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/503d80080e8e788ebc7552666e3806dc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-ads:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-ads-12.0.1.aar/ddbedd5afec2aac835e1291d8d24ce68/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-12.0.1.aar/e91b11404732a477af7074091f914d05/AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-analytics-12.0.1.aar/e3e038fd77d094317158723b26c1ef03/AndroidManifest.xml:17:1-47:12
+MERGED from [com.google.android.gms:play-services-tagmanager:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-12.0.1.aar/261beae2e3c8abb042b422c35dda2ce8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-v4-impl-12.0.1.aar/9f8a0a911e9920b8f335b8bdbbf713c1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-12.0.1.aar/cb1fee45b8ba94d698c11daf725eee99/AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.android.gms:play-services-appinvite:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-12.0.1.aar/5e959d1395ee95a6f8fc98facea6595f/AndroidManifest.xml:17:1-37:12
+MERGED from [com.google.android.gms:play-services-auth:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.1.aar/1b3df44c3ac6d9d70e8e6aa33e6b4967/AndroidManifest.xml:17:1-39:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-12.0.1.aar/7f7da33da9b07819ffba61f1aa42a335/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-12.0.1.aar/2773cd384d463dcf59d2c4e9ab2b820a/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:firebase-config:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-config-12.0.1.aar/174394d313f5c4525eca1dd29c096090/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-awareness:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-awareness-12.0.1.aar/fa805760d8e32c70e08f4f4f81b0624b/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-games:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-games-12.0.1.aar/b89e12a140cb8741046131dec6662bcc/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-drive:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-drive-12.0.1.aar/2bc6087baf600e019645935e1f0300b2/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-fido:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-fido-12.0.1.aar/20f09e95859c1bcfb70589e1cd254ec1/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-auth:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-auth-12.0.1.aar/f56e8d70763f1b5530477cb0fe208518/AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.firebase:firebase-dynamic-links:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-dynamic-links-12.0.1.aar/606d406ffcf9dc2f82bdc2c8b8b2713c/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-fitness:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-fitness-12.0.1.aar/eeb36e33dc1c9dd1fcb763030b758f71/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-gcm:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-gcm-12.0.1.aar/6a91075109a037a1f4c010ea8f460085/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.firebase:firebase-appindexing:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-appindexing-12.0.1.aar/1a1c9de544472de105bcf182a2a08b7f/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-wallet:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-wallet-12.0.1.aar/e4cafea61da7c59efaecde08019f889b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-identity:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-identity-12.0.1.aar/b156fc63202cf28c3dc993be6e3207a4/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-iid-12.0.1.aar/ee839b684468e144f1031ac8844f220f/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-instantapps:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-instantapps-12.0.1.aar/549b734c819351779692abf01ffd8fb4/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-location:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-location-12.0.1.aar/c1dacd523e444131a22a957475943ab6/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-places:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-places-12.0.1.aar/63d39f5255f29791fc00e9647f3e494d/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-maps-12.0.1.aar/9e3367fadefe1087e20e532af592766c/AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.gms:play-services-nearby:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-nearby-12.0.1.aar/28a398fbd1be85e9a039e4d8940e1983/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-panorama:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-panorama-12.0.1.aar/5600b380d57657b0742491e0073f34a8/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-plus:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-plus-12.0.1.aar/e46b5f1ecedb6b1d5229c361f9cb3e7f/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-safetynet:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-safetynet-12.0.1.aar/aa811f4d7ea8c63bc8ee5a32a67a68c5/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-vision:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-vision-12.0.1.aar/12bcf545bd7d315bb4858819bb18fc21/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-vision-common:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-12.0.1.aar/2a2df081e68ebb38a0ff6afa63feb0aa/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-wearable:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-wearable-12.0.1.aar/988a2fde55330341d8287cd6f757e7da/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/08175c504ad2d10f5dfd5f085a61a8ee/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-crash:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-crash-12.0.1.aar/084900cc48cad54f57486423aba72ae5/AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.firebase:firebase-database:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-database-12.0.1.aar/aad695f665ef1d4040177f94ec7525a3/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-database-connection:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-12.0.1.aar/1c8fdf1ed844e6b086025989a75633d9/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-messaging:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-messaging-12.0.1.aar/1516da3490d62fe727161e6b90a7846f/AndroidManifest.xml:17:1-37:12
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-12.0.1.aar/7a18718ae4e825ac4156a525788ba0af/AndroidManifest.xml:17:1-47:12
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/cf9c067c0f333f9aec659bcb5c998df9/AndroidManifest.xml:17:1-54:12
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.1.aar/edfb878b2106be771968f62c387f2904/AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/08d35779d3494d8146d5c3f435d9bde4/AndroidManifest.xml:17:1-59:12
+MERGED from [com.google.firebase:firebase-storage:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-storage-12.0.1.aar/18f1e3210e071a7618fb52da4e339854/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-storage-common:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-12.0.1.aar/bba6c527e6c3e09398aa86ee2c5cb33b/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-common:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-common-12.0.1.aar/74c2cd7bcb4d3a20fd9841d950efd8ba/AndroidManifest.xml:2:1-15:12
+MERGED from [com.google.android.gms:play-services-gass:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-gass-12.0.1.aar/c18dbea51521507a933bb3541d775b6d/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-tasks-12.0.1.aar/8163913dcc288eaa17b306f201e7b914/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.1.aar/512d9e5e323cfb11ddfddd5013ba736f/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/b40109162278d4a7e8e14493efb9e733/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/bc7eed73db548b2b5d287fc468fd64d1/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/7f8ac431f8a84f98f3b357c93ee24296/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/88d3a274d2c7c9b0d3b7be2578e82e6a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:palette-v7:26.1.0] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/palette-v7-26.1.0.aar/5a9f231819abe4817110c7fda50cefb6/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-fragment:27.1.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/e399e9247c23d0c8f77b2bf22161aea8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/5758cc6d129f8a88011a2a97d19eb619/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/6f0c30db6a5134f2d318daebdef6fee5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/31cd1e6e217e040c34f215dd71337cee/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-ads-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-ads-license-12.0.1.aar/61406bd4e08102ea18c5ac29866ebc6c/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-ads-lite-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-license-12.0.1.aar/e06ceedff1b95d9e6b2d747978d26638/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-analytics-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-analytics-license-12.0.1.aar/b1872b20cdff0f075e312580f9348716/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-analytics-impl-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-license-12.0.1.aar/10a7513792a0dde1848bdca9e556e7f3/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-appinvite-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-license-12.0.1.aar/372cde9539f5c72ab1665b5fafb75d12/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-license-12.0.1.aar/43bd754e9d9f6c99d8259b4c9c9a62e2/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-auth-base-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-license-12.0.1.aar/c4462cdb930d97f0d05871338f5af15a/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-base-license-12.0.1.aar/bcdf21d302333ce543300002323b5d91/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-cast-framework-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-license-12.0.1.aar/16c96867b60c69012c299057968412c8/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-cast-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-cast-license-12.0.1.aar/495fde76c09f315152e4ad384247c719/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-12.0.1.aar/f471b7cd02fb2ab242fc8f447d711868/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-config-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-config-license-12.0.1.aar/43468a83e5a5beaaabd1a5b12091fb12/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-awareness-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-awareness-license-12.0.1.aar/567068ac13076aaf064f32ae03e42b46/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-crash-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-crash-license-12.0.1.aar/366a20c7142845c42ef2797d9f16b953/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-drive-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-drive-license-12.0.1.aar/411eebbc873cd5d709281154ee012e9a/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-fido-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-fido-license-12.0.1.aar/92f4c792dbec179c3041c15eba9695ce/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-auth-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-auth-license-12.0.1.aar/86c7bd6a663fc14ea8f74e7a93d12c69/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-database-connection-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-license-12.0.1.aar/0a427dcc4d7373437f1926f0592f40f5/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-database-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-database-license-12.0.1.aar/83f48684f87fdc3c9336928a6e5ba5e8/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-dynamic-links-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-dynamic-links-license-12.0.1.aar/116ba85aba68b8d1720b3271c93f1738/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-iid-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-12.0.1.aar/a03382d021bad7161b74bc64209394a2/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-messaging-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-messaging-license-12.0.1.aar/b089026e226d9d62ac2db1d2d00f5728/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-storage-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-storage-license-12.0.1.aar/c89443e5d8cf982baa7b643ac869895f/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-storage-common-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-license-12.0.1.aar/f8fdb01c18f28a5f577a0e64a09c76a1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-common-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-common-license-12.0.1.aar/ea577d892c7bbe6f23b0e1e98dbcabfc/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-fitness-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-fitness-license-12.0.1.aar/8a582b2ebd650aadf35da1c4b4bc1713/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-games-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-games-license-12.0.1.aar/b464e1b211bedc99dc9d7add1050dadd/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-gass-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-gass-license-12.0.1.aar/fac0d7cfb33d636313d0dd5bebaf66ad/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-gcm-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-gcm-license-12.0.1.aar/3add8ba26c2aec1aaabb2d83cb01e8e6/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-appindexing-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-appindexing-license-12.0.1.aar/3dd17e2a860d05d25b7211a2d5adbb6f/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-identity-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-identity-license-12.0.1.aar/4ec6ca7e358d3ca1c75c50efca7f3f0b/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-iid-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-iid-license-12.0.1.aar/2fb1cd094de57518d166548124a53c66/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-instantapps-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-instantapps-license-12.0.1.aar/688625ef3d9ce23e4537ee92df436d67/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-location-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-location-license-12.0.1.aar/313a034a27462fb53666528b95125ea5/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-maps-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-maps-license-12.0.1.aar/8857ea12aa7d7ff7891ff6524defcb02/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-analytics-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-12.0.1.aar/6c68d639e415feb7d093d320fdd01cbc/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-analytics-impl-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-12.0.1.aar/1ce2184f9ddc43b60ef266fdadb33a9e/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-nearby-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-nearby-license-12.0.1.aar/5b4d4688577a7a833ef48a31b7c4fcb5/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-panorama-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-panorama-license-12.0.1.aar/e5fe071d32775a32cdd9494b68fefc24/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-places-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-places-license-12.0.1.aar/1e3d9372c96a0aa40b1634a33c61b9ac/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-plus-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-plus-license-12.0.1.aar/6eb684cc1b69b056122cea90675d7adc/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-safetynet-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-safetynet-license-12.0.1.aar/eb06e947eed24aabb6cbe7a2c221d517/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tagmanager-api-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-license-12.0.1.aar/d2e5619220456c464e1681faa5a8d0a3/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tagmanager-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-license-12.0.1.aar/582b289c6ee1f3f8497a9ce6720c3964/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-v4-impl-license-12.0.1.aar/68df6667b849f0f00131a2a0115f2db5/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-12.0.1.aar/463b27a23be878aeabe3d4ecdcdc2e20/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-license-12.0.1.aar/a2ff5500dc7f69d8a677cfb8e05d96b2/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-vision-license-12.0.1.aar/dd0c4926318d274801e14d9b26fede14/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-wallet-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-wallet-license-12.0.1.aar/e15b0a3c9b4a173219285c56a81a6de0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-wearable-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-wearable-license-12.0.1.aar/2b23a42cbd1b531330d7f2df0b81bfcd/AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/222eb35016a713f3a7aa8aa4e89301d1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/fd8ded86895d5f8491e685ac29e5db96/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/55d22a71582a6760c2fd1cc9ce6666fe/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/de7d5dc29ac0c721575189dec46f25a9/AndroidManifest.xml:17:1-22:12
+INJECTED from /media/the_spartan/A2108CEA108CC6AF/Users/Spartan/Desktop/Flappy Ball/android/AndroidManifest.xml:2:1-38:12
+INJECTED from /media/the_spartan/A2108CEA108CC6AF/Users/Spartan/Desktop/Flappy Ball/android/AndroidManifest.xml:2:1-38:12
+INJECTED from /media/the_spartan/A2108CEA108CC6AF/Users/Spartan/Desktop/Flappy Ball/android/AndroidManifest.xml:2:1-38:12
+	package
+		ADDED from /media/the_spartan/A2108CEA108CC6AF/Users/Spartan/Desktop/Flappy Ball/android/AndroidManifest.xml:3:5-42
+		INJECTED from /media/the_spartan/A2108CEA108CC6AF/Users/Spartan/Desktop/Flappy Ball/android/AndroidManifest.xml
+		INJECTED from /media/the_spartan/A2108CEA108CC6AF/Users/Spartan/Desktop/Flappy Ball/android/AndroidManifest.xml
+	android:versionName
+		INJECTED from /media/the_spartan/A2108CEA108CC6AF/Users/Spartan/Desktop/Flappy Ball/android/AndroidManifest.xml
+		ADDED from /media/the_spartan/A2108CEA108CC6AF/Users/Spartan/Desktop/Flappy Ball/android/AndroidManifest.xml:2:1-38:12
+		INJECTED from /media/the_spartan/A2108CEA108CC6AF/Users/Spartan/Desktop/Flappy Ball/android/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /media/the_spartan/A2108CEA108CC6AF/Users/Spartan/Desktop/Flappy Ball/android/AndroidManifest.xml
+		ADDED from /media/the_spartan/A2108CEA108CC6AF/Users/Spartan/Desktop/Flappy Ball/android/AndroidManifest.xml:2:1-38:12
+		INJECTED from /media/the_spartan/A2108CEA108CC6AF/Users/Spartan/Desktop/Flappy Ball/android/AndroidManifest.xml
+	xmlns:android
+		ADDED from /media/the_spartan/A2108CEA108CC6AF/Users/Spartan/Desktop/Flappy Ball/android/AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from /media/the_spartan/A2108CEA108CC6AF/Users/Spartan/Desktop/Flappy Ball/android/AndroidManifest.xml:5:5-6:41
+INJECTED from /media/the_spartan/A2108CEA108CC6AF/Users/Spartan/Desktop/Flappy Ball/android/AndroidManifest.xml:5:5-6:41
+INJECTED from /media/the_spartan/A2108CEA108CC6AF/Users/Spartan/Desktop/Flappy Ball/android/AndroidManifest.xml:5:5-6:41
+MERGED from [com.android.support:multidex:1.0.2] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/c366cf31dc89052637399ba8c299c5b6/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.2] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/c366cf31dc89052637399ba8c299c5b6/AndroidManifest.xml:20:5-43
+MERGED from [com.github.fernandodev.easyratingdialog:easyratingdialog:1.1.2] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/easyratingdialog-1.1.2.aar/2cffe0e5429b4de24ecaa9444614f0bf/AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.fernandodev.easyratingdialog:easyratingdialog:1.1.2] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/easyratingdialog-1.1.2.aar/2cffe0e5429b4de24ecaa9444614f0bf/AndroidManifest.xml:8:5-10:41
+MERGED from [com.google.android.gms:play-services:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-12.0.1.aar/e871c29dcd6410ba72c0a8ebc1ed3e4d/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-12.0.1.aar/e871c29dcd6410ba72c0a8ebc1ed3e4d/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-cast-framework:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-12.0.1.aar/3d5028d4146a746f877d8daeede3056f/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-cast-framework:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-12.0.1.aar/3d5028d4146a746f877d8daeede3056f/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-cast:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-cast-12.0.1.aar/7f2aead5c45aee78ae64fe284ad9cd53/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-cast:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-cast-12.0.1.aar/7f2aead5c45aee78ae64fe284ad9cd53/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:mediarouter-v7:26.1.0] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-26.1.0.aar/59ce817b04df9382062561380bfb2ce4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:mediarouter-v7:26.1.0] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-26.1.0.aar/59ce817b04df9382062561380bfb2ce4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/503d80080e8e788ebc7552666e3806dc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/503d80080e8e788ebc7552666e3806dc/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-ads-12.0.1.aar/ddbedd5afec2aac835e1291d8d24ce68/AndroidManifest.xml:21:5-23:62
+MERGED from [com.google.android.gms:play-services-ads:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-ads-12.0.1.aar/ddbedd5afec2aac835e1291d8d24ce68/AndroidManifest.xml:21:5-23:62
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-12.0.1.aar/e91b11404732a477af7074091f914d05/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-12.0.1.aar/e91b11404732a477af7074091f914d05/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-analytics-12.0.1.aar/e3e038fd77d094317158723b26c1ef03/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-analytics-12.0.1.aar/e3e038fd77d094317158723b26c1ef03/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-12.0.1.aar/261beae2e3c8abb042b422c35dda2ce8/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-12.0.1.aar/261beae2e3c8abb042b422c35dda2ce8/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-v4-impl-12.0.1.aar/9f8a0a911e9920b8f335b8bdbbf713c1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-v4-impl-12.0.1.aar/9f8a0a911e9920b8f335b8bdbbf713c1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-12.0.1.aar/cb1fee45b8ba94d698c11daf725eee99/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-12.0.1.aar/cb1fee45b8ba94d698c11daf725eee99/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-appinvite:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-12.0.1.aar/5e959d1395ee95a6f8fc98facea6595f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-appinvite:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-12.0.1.aar/5e959d1395ee95a6f8fc98facea6595f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.1.aar/1b3df44c3ac6d9d70e8e6aa33e6b4967/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.1.aar/1b3df44c3ac6d9d70e8e6aa33e6b4967/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-12.0.1.aar/7f7da33da9b07819ffba61f1aa42a335/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-12.0.1.aar/7f7da33da9b07819ffba61f1aa42a335/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-12.0.1.aar/2773cd384d463dcf59d2c4e9ab2b820a/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-12.0.1.aar/2773cd384d463dcf59d2c4e9ab2b820a/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-config:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-config-12.0.1.aar/174394d313f5c4525eca1dd29c096090/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-config:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-config-12.0.1.aar/174394d313f5c4525eca1dd29c096090/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-awareness:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-awareness-12.0.1.aar/fa805760d8e32c70e08f4f4f81b0624b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-awareness:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-awareness-12.0.1.aar/fa805760d8e32c70e08f4f4f81b0624b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-games:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-games-12.0.1.aar/b89e12a140cb8741046131dec6662bcc/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-games:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-games-12.0.1.aar/b89e12a140cb8741046131dec6662bcc/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-drive:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-drive-12.0.1.aar/2bc6087baf600e019645935e1f0300b2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-drive:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-drive-12.0.1.aar/2bc6087baf600e019645935e1f0300b2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-fido:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-fido-12.0.1.aar/20f09e95859c1bcfb70589e1cd254ec1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-fido:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-fido-12.0.1.aar/20f09e95859c1bcfb70589e1cd254ec1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-auth-12.0.1.aar/f56e8d70763f1b5530477cb0fe208518/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-auth-12.0.1.aar/f56e8d70763f1b5530477cb0fe208518/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-dynamic-links:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-dynamic-links-12.0.1.aar/606d406ffcf9dc2f82bdc2c8b8b2713c/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-dynamic-links:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-dynamic-links-12.0.1.aar/606d406ffcf9dc2f82bdc2c8b8b2713c/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-fitness:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-fitness-12.0.1.aar/eeb36e33dc1c9dd1fcb763030b758f71/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-fitness:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-fitness-12.0.1.aar/eeb36e33dc1c9dd1fcb763030b758f71/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gcm:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-gcm-12.0.1.aar/6a91075109a037a1f4c010ea8f460085/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gcm:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-gcm-12.0.1.aar/6a91075109a037a1f4c010ea8f460085/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-appindexing:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-appindexing-12.0.1.aar/1a1c9de544472de105bcf182a2a08b7f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-appindexing:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-appindexing-12.0.1.aar/1a1c9de544472de105bcf182a2a08b7f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wallet:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-wallet-12.0.1.aar/e4cafea61da7c59efaecde08019f889b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wallet:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-wallet-12.0.1.aar/e4cafea61da7c59efaecde08019f889b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-identity:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-identity-12.0.1.aar/b156fc63202cf28c3dc993be6e3207a4/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-identity:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-identity-12.0.1.aar/b156fc63202cf28c3dc993be6e3207a4/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-iid-12.0.1.aar/ee839b684468e144f1031ac8844f220f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-iid-12.0.1.aar/ee839b684468e144f1031ac8844f220f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-instantapps:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-instantapps-12.0.1.aar/549b734c819351779692abf01ffd8fb4/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-instantapps:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-instantapps-12.0.1.aar/549b734c819351779692abf01ffd8fb4/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-location-12.0.1.aar/c1dacd523e444131a22a957475943ab6/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-location-12.0.1.aar/c1dacd523e444131a22a957475943ab6/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-places:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-places-12.0.1.aar/63d39f5255f29791fc00e9647f3e494d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-places-12.0.1.aar/63d39f5255f29791fc00e9647f3e494d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-maps-12.0.1.aar/9e3367fadefe1087e20e532af592766c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-maps-12.0.1.aar/9e3367fadefe1087e20e532af592766c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-nearby:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-nearby-12.0.1.aar/28a398fbd1be85e9a039e4d8940e1983/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-nearby:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-nearby-12.0.1.aar/28a398fbd1be85e9a039e4d8940e1983/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-panorama:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-panorama-12.0.1.aar/5600b380d57657b0742491e0073f34a8/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-panorama:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-panorama-12.0.1.aar/5600b380d57657b0742491e0073f34a8/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-plus:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-plus-12.0.1.aar/e46b5f1ecedb6b1d5229c361f9cb3e7f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-plus:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-plus-12.0.1.aar/e46b5f1ecedb6b1d5229c361f9cb3e7f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-safetynet:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-safetynet-12.0.1.aar/aa811f4d7ea8c63bc8ee5a32a67a68c5/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-safetynet:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-safetynet-12.0.1.aar/aa811f4d7ea8c63bc8ee5a32a67a68c5/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-vision-12.0.1.aar/12bcf545bd7d315bb4858819bb18fc21/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-vision-12.0.1.aar/12bcf545bd7d315bb4858819bb18fc21/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-12.0.1.aar/2a2df081e68ebb38a0ff6afa63feb0aa/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-12.0.1.aar/2a2df081e68ebb38a0ff6afa63feb0aa/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-wearable:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-wearable-12.0.1.aar/988a2fde55330341d8287cd6f757e7da/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wearable:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-wearable-12.0.1.aar/988a2fde55330341d8287cd6f757e7da/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/08175c504ad2d10f5dfd5f085a61a8ee/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/08175c504ad2d10f5dfd5f085a61a8ee/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-crash:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-crash-12.0.1.aar/084900cc48cad54f57486423aba72ae5/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-crash:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-crash-12.0.1.aar/084900cc48cad54f57486423aba72ae5/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-database-12.0.1.aar/aad695f665ef1d4040177f94ec7525a3/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-database-12.0.1.aar/aad695f665ef1d4040177f94ec7525a3/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database-connection:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-12.0.1.aar/1c8fdf1ed844e6b086025989a75633d9/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database-connection:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-12.0.1.aar/1c8fdf1ed844e6b086025989a75633d9/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-messaging:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-messaging-12.0.1.aar/1516da3490d62fe727161e6b90a7846f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-messaging-12.0.1.aar/1516da3490d62fe727161e6b90a7846f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-12.0.1.aar/7a18718ae4e825ac4156a525788ba0af/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-12.0.1.aar/7a18718ae4e825ac4156a525788ba0af/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/cf9c067c0f333f9aec659bcb5c998df9/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/cf9c067c0f333f9aec659bcb5c998df9/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.1.aar/edfb878b2106be771968f62c387f2904/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.1.aar/edfb878b2106be771968f62c387f2904/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/08d35779d3494d8146d5c3f435d9bde4/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/08d35779d3494d8146d5c3f435d9bde4/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-storage:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-storage-12.0.1.aar/18f1e3210e071a7618fb52da4e339854/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-storage:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-storage-12.0.1.aar/18f1e3210e071a7618fb52da4e339854/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-storage-common:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-12.0.1.aar/bba6c527e6c3e09398aa86ee2c5cb33b/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-storage-common:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-12.0.1.aar/bba6c527e6c3e09398aa86ee2c5cb33b/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-common:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-common-12.0.1.aar/74c2cd7bcb4d3a20fd9841d950efd8ba/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-common-12.0.1.aar/74c2cd7bcb4d3a20fd9841d950efd8ba/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-gass:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-gass-12.0.1.aar/c18dbea51521507a933bb3541d775b6d/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-gass:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-gass-12.0.1.aar/c18dbea51521507a933bb3541d775b6d/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-tasks-12.0.1.aar/8163913dcc288eaa17b306f201e7b914/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-tasks-12.0.1.aar/8163913dcc288eaa17b306f201e7b914/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.1.aar/512d9e5e323cfb11ddfddd5013ba736f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.1.aar/512d9e5e323cfb11ddfddd5013ba736f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/b40109162278d4a7e8e14493efb9e733/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/b40109162278d4a7e8e14493efb9e733/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/bc7eed73db548b2b5d287fc468fd64d1/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/bc7eed73db548b2b5d287fc468fd64d1/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/7f8ac431f8a84f98f3b357c93ee24296/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/7f8ac431f8a84f98f3b357c93ee24296/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/88d3a274d2c7c9b0d3b7be2578e82e6a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/88d3a274d2c7c9b0d3b7be2578e82e6a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:palette-v7:26.1.0] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/palette-v7-26.1.0.aar/5a9f231819abe4817110c7fda50cefb6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:palette-v7:26.1.0] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/palette-v7-26.1.0.aar/5a9f231819abe4817110c7fda50cefb6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/e399e9247c23d0c8f77b2bf22161aea8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/e399e9247c23d0c8f77b2bf22161aea8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/5758cc6d129f8a88011a2a97d19eb619/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/5758cc6d129f8a88011a2a97d19eb619/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/6f0c30db6a5134f2d318daebdef6fee5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/6f0c30db6a5134f2d318daebdef6fee5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/31cd1e6e217e040c34f215dd71337cee/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/31cd1e6e217e040c34f215dd71337cee/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-ads-license-12.0.1.aar/61406bd4e08102ea18c5ac29866ebc6c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-ads-license-12.0.1.aar/61406bd4e08102ea18c5ac29866ebc6c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-license-12.0.1.aar/e06ceedff1b95d9e6b2d747978d26638/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-license-12.0.1.aar/e06ceedff1b95d9e6b2d747978d26638/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-analytics-license-12.0.1.aar/b1872b20cdff0f075e312580f9348716/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-analytics-license-12.0.1.aar/b1872b20cdff0f075e312580f9348716/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics-impl-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-license-12.0.1.aar/10a7513792a0dde1848bdca9e556e7f3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics-impl-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-license-12.0.1.aar/10a7513792a0dde1848bdca9e556e7f3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-appinvite-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-license-12.0.1.aar/372cde9539f5c72ab1665b5fafb75d12/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-appinvite-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-license-12.0.1.aar/372cde9539f5c72ab1665b5fafb75d12/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-license-12.0.1.aar/43bd754e9d9f6c99d8259b4c9c9a62e2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-license-12.0.1.aar/43bd754e9d9f6c99d8259b4c9c9a62e2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-base-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-license-12.0.1.aar/c4462cdb930d97f0d05871338f5af15a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-base-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-license-12.0.1.aar/c4462cdb930d97f0d05871338f5af15a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-base-license-12.0.1.aar/bcdf21d302333ce543300002323b5d91/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-base-license-12.0.1.aar/bcdf21d302333ce543300002323b5d91/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-cast-framework-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-license-12.0.1.aar/16c96867b60c69012c299057968412c8/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-cast-framework-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-license-12.0.1.aar/16c96867b60c69012c299057968412c8/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-cast-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-cast-license-12.0.1.aar/495fde76c09f315152e4ad384247c719/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-cast-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-cast-license-12.0.1.aar/495fde76c09f315152e4ad384247c719/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-12.0.1.aar/f471b7cd02fb2ab242fc8f447d711868/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-12.0.1.aar/f471b7cd02fb2ab242fc8f447d711868/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-config-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-config-license-12.0.1.aar/43468a83e5a5beaaabd1a5b12091fb12/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-config-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-config-license-12.0.1.aar/43468a83e5a5beaaabd1a5b12091fb12/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-awareness-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-awareness-license-12.0.1.aar/567068ac13076aaf064f32ae03e42b46/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-awareness-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-awareness-license-12.0.1.aar/567068ac13076aaf064f32ae03e42b46/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-crash-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-crash-license-12.0.1.aar/366a20c7142845c42ef2797d9f16b953/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-crash-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-crash-license-12.0.1.aar/366a20c7142845c42ef2797d9f16b953/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-drive-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-drive-license-12.0.1.aar/411eebbc873cd5d709281154ee012e9a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-drive-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-drive-license-12.0.1.aar/411eebbc873cd5d709281154ee012e9a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-fido-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-fido-license-12.0.1.aar/92f4c792dbec179c3041c15eba9695ce/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-fido-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-fido-license-12.0.1.aar/92f4c792dbec179c3041c15eba9695ce/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-auth-license-12.0.1.aar/86c7bd6a663fc14ea8f74e7a93d12c69/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-auth-license-12.0.1.aar/86c7bd6a663fc14ea8f74e7a93d12c69/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-connection-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-license-12.0.1.aar/0a427dcc4d7373437f1926f0592f40f5/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-connection-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-license-12.0.1.aar/0a427dcc4d7373437f1926f0592f40f5/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-database-license-12.0.1.aar/83f48684f87fdc3c9336928a6e5ba5e8/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-database-license-12.0.1.aar/83f48684f87fdc3c9336928a6e5ba5e8/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-dynamic-links-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-dynamic-links-license-12.0.1.aar/116ba85aba68b8d1720b3271c93f1738/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-dynamic-links-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-dynamic-links-license-12.0.1.aar/116ba85aba68b8d1720b3271c93f1738/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-12.0.1.aar/a03382d021bad7161b74bc64209394a2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-12.0.1.aar/a03382d021bad7161b74bc64209394a2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-messaging-license-12.0.1.aar/b089026e226d9d62ac2db1d2d00f5728/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-messaging-license-12.0.1.aar/b089026e226d9d62ac2db1d2d00f5728/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-storage-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-storage-license-12.0.1.aar/c89443e5d8cf982baa7b643ac869895f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-storage-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-storage-license-12.0.1.aar/c89443e5d8cf982baa7b643ac869895f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-storage-common-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-license-12.0.1.aar/f8fdb01c18f28a5f577a0e64a09c76a1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-storage-common-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-license-12.0.1.aar/f8fdb01c18f28a5f577a0e64a09c76a1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-common-license-12.0.1.aar/ea577d892c7bbe6f23b0e1e98dbcabfc/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-common-license-12.0.1.aar/ea577d892c7bbe6f23b0e1e98dbcabfc/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-fitness-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-fitness-license-12.0.1.aar/8a582b2ebd650aadf35da1c4b4bc1713/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-fitness-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-fitness-license-12.0.1.aar/8a582b2ebd650aadf35da1c4b4bc1713/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-games-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-games-license-12.0.1.aar/b464e1b211bedc99dc9d7add1050dadd/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-games-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-games-license-12.0.1.aar/b464e1b211bedc99dc9d7add1050dadd/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gass-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-gass-license-12.0.1.aar/fac0d7cfb33d636313d0dd5bebaf66ad/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gass-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-gass-license-12.0.1.aar/fac0d7cfb33d636313d0dd5bebaf66ad/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gcm-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-gcm-license-12.0.1.aar/3add8ba26c2aec1aaabb2d83cb01e8e6/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gcm-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-gcm-license-12.0.1.aar/3add8ba26c2aec1aaabb2d83cb01e8e6/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-appindexing-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-appindexing-license-12.0.1.aar/3dd17e2a860d05d25b7211a2d5adbb6f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-appindexing-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-appindexing-license-12.0.1.aar/3dd17e2a860d05d25b7211a2d5adbb6f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-identity-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-identity-license-12.0.1.aar/4ec6ca7e358d3ca1c75c50efca7f3f0b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-identity-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-identity-license-12.0.1.aar/4ec6ca7e358d3ca1c75c50efca7f3f0b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-iid-license-12.0.1.aar/2fb1cd094de57518d166548124a53c66/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-iid-license-12.0.1.aar/2fb1cd094de57518d166548124a53c66/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-instantapps-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-instantapps-license-12.0.1.aar/688625ef3d9ce23e4537ee92df436d67/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-instantapps-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-instantapps-license-12.0.1.aar/688625ef3d9ce23e4537ee92df436d67/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-location-license-12.0.1.aar/313a034a27462fb53666528b95125ea5/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-location-license-12.0.1.aar/313a034a27462fb53666528b95125ea5/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-maps-license-12.0.1.aar/8857ea12aa7d7ff7891ff6524defcb02/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-maps-license-12.0.1.aar/8857ea12aa7d7ff7891ff6524defcb02/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-12.0.1.aar/6c68d639e415feb7d093d320fdd01cbc/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-12.0.1.aar/6c68d639e415feb7d093d320fdd01cbc/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-12.0.1.aar/1ce2184f9ddc43b60ef266fdadb33a9e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-12.0.1.aar/1ce2184f9ddc43b60ef266fdadb33a9e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-nearby-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-nearby-license-12.0.1.aar/5b4d4688577a7a833ef48a31b7c4fcb5/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-nearby-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-nearby-license-12.0.1.aar/5b4d4688577a7a833ef48a31b7c4fcb5/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-panorama-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-panorama-license-12.0.1.aar/e5fe071d32775a32cdd9494b68fefc24/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-panorama-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-panorama-license-12.0.1.aar/e5fe071d32775a32cdd9494b68fefc24/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-places-license-12.0.1.aar/1e3d9372c96a0aa40b1634a33c61b9ac/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-places-license-12.0.1.aar/1e3d9372c96a0aa40b1634a33c61b9ac/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-plus-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-plus-license-12.0.1.aar/6eb684cc1b69b056122cea90675d7adc/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-plus-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-plus-license-12.0.1.aar/6eb684cc1b69b056122cea90675d7adc/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-safetynet-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-safetynet-license-12.0.1.aar/eb06e947eed24aabb6cbe7a2c221d517/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-safetynet-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-safetynet-license-12.0.1.aar/eb06e947eed24aabb6cbe7a2c221d517/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-api-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-license-12.0.1.aar/d2e5619220456c464e1681faa5a8d0a3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-api-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-license-12.0.1.aar/d2e5619220456c464e1681faa5a8d0a3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-license-12.0.1.aar/582b289c6ee1f3f8497a9ce6720c3964/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-license-12.0.1.aar/582b289c6ee1f3f8497a9ce6720c3964/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-v4-impl-license-12.0.1.aar/68df6667b849f0f00131a2a0115f2db5/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-v4-impl-license-12.0.1.aar/68df6667b849f0f00131a2a0115f2db5/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-12.0.1.aar/463b27a23be878aeabe3d4ecdcdc2e20/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-12.0.1.aar/463b27a23be878aeabe3d4ecdcdc2e20/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-license-12.0.1.aar/a2ff5500dc7f69d8a677cfb8e05d96b2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-license-12.0.1.aar/a2ff5500dc7f69d8a677cfb8e05d96b2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-vision-license-12.0.1.aar/dd0c4926318d274801e14d9b26fede14/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-vision-license-12.0.1.aar/dd0c4926318d274801e14d9b26fede14/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wallet-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-wallet-license-12.0.1.aar/e15b0a3c9b4a173219285c56a81a6de0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wallet-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-wallet-license-12.0.1.aar/e15b0a3c9b4a173219285c56a81a6de0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wearable-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-wearable-license-12.0.1.aar/2b23a42cbd1b531330d7f2df0b81bfcd/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wearable-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-wearable-license-12.0.1.aar/2b23a42cbd1b531330d7f2df0b81bfcd/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/222eb35016a713f3a7aa8aa4e89301d1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/222eb35016a713f3a7aa8aa4e89301d1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/fd8ded86895d5f8491e685ac29e5db96/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/fd8ded86895d5f8491e685ac29e5db96/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/55d22a71582a6760c2fd1cc9ce6666fe/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/55d22a71582a6760c2fd1cc9ce6666fe/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/de7d5dc29ac0c721575189dec46f25a9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/de7d5dc29ac0c721575189dec46f25a9/AndroidManifest.xml:20:5-44
+INJECTED from /media/the_spartan/A2108CEA108CC6AF/Users/Spartan/Desktop/Flappy Ball/android/AndroidManifest.xml:5:5-6:41
+INJECTED from /media/the_spartan/A2108CEA108CC6AF/Users/Spartan/Desktop/Flappy Ball/android/AndroidManifest.xml:5:5-6:41
+	tools:overrideLibrary
+		ADDED from [com.google.android.gms:play-services-ads:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-ads-12.0.1.aar/ddbedd5afec2aac835e1291d8d24ce68/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		ADDED from /media/the_spartan/A2108CEA108CC6AF/Users/Spartan/Desktop/Flappy Ball/android/AndroidManifest.xml:6:9-38
+		INJECTED from /media/the_spartan/A2108CEA108CC6AF/Users/Spartan/Desktop/Flappy Ball/android/AndroidManifest.xml
+		INJECTED from /media/the_spartan/A2108CEA108CC6AF/Users/Spartan/Desktop/Flappy Ball/android/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /media/the_spartan/A2108CEA108CC6AF/Users/Spartan/Desktop/Flappy Ball/android/AndroidManifest.xml:5:15-41
+		INJECTED from /media/the_spartan/A2108CEA108CC6AF/Users/Spartan/Desktop/Flappy Ball/android/AndroidManifest.xml
+		INJECTED from /media/the_spartan/A2108CEA108CC6AF/Users/Spartan/Desktop/Flappy Ball/android/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /media/the_spartan/A2108CEA108CC6AF/Users/Spartan/Desktop/Flappy Ball/android/AndroidManifest.xml:8:5-66
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-12.0.1.aar/e91b11404732a477af7074091f914d05/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-12.0.1.aar/e91b11404732a477af7074091f914d05/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-analytics-12.0.1.aar/e3e038fd77d094317158723b26c1ef03/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-analytics-12.0.1.aar/e3e038fd77d094317158723b26c1ef03/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-12.0.1.aar/cb1fee45b8ba94d698c11daf725eee99/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-12.0.1.aar/cb1fee45b8ba94d698c11daf725eee99/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-appinvite:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-12.0.1.aar/5e959d1395ee95a6f8fc98facea6595f/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-appinvite:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-12.0.1.aar/5e959d1395ee95a6f8fc98facea6595f/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-gcm:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-gcm-12.0.1.aar/6a91075109a037a1f4c010ea8f460085/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-gcm:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-gcm-12.0.1.aar/6a91075109a037a1f4c010ea8f460085/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-iid-12.0.1.aar/ee839b684468e144f1031ac8844f220f/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-iid-12.0.1.aar/ee839b684468e144f1031ac8844f220f/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-maps-12.0.1.aar/9e3367fadefe1087e20e532af592766c/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-maps-12.0.1.aar/9e3367fadefe1087e20e532af592766c/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-crash:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-crash-12.0.1.aar/084900cc48cad54f57486423aba72ae5/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-crash:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-crash-12.0.1.aar/084900cc48cad54f57486423aba72ae5/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-12.0.1.aar/7a18718ae4e825ac4156a525788ba0af/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-12.0.1.aar/7a18718ae4e825ac4156a525788ba0af/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/cf9c067c0f333f9aec659bcb5c998df9/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/cf9c067c0f333f9aec659bcb5c998df9/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.1.aar/edfb878b2106be771968f62c387f2904/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.1.aar/edfb878b2106be771968f62c387f2904/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/08d35779d3494d8146d5c3f435d9bde4/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/08d35779d3494d8146d5c3f435d9bde4/AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from /media/the_spartan/A2108CEA108CC6AF/Users/Spartan/Desktop/Flappy Ball/android/AndroidManifest.xml:8:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /media/the_spartan/A2108CEA108CC6AF/Users/Spartan/Desktop/Flappy Ball/android/AndroidManifest.xml:9:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-12.0.1.aar/e91b11404732a477af7074091f914d05/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-12.0.1.aar/e91b11404732a477af7074091f914d05/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-analytics-12.0.1.aar/e3e038fd77d094317158723b26c1ef03/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-analytics-12.0.1.aar/e3e038fd77d094317158723b26c1ef03/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-12.0.1.aar/cb1fee45b8ba94d698c11daf725eee99/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-12.0.1.aar/cb1fee45b8ba94d698c11daf725eee99/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-maps-12.0.1.aar/9e3367fadefe1087e20e532af592766c/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-maps-12.0.1.aar/9e3367fadefe1087e20e532af592766c/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-nearby:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-nearby-12.0.1.aar/28a398fbd1be85e9a039e4d8940e1983/AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-nearby:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-nearby-12.0.1.aar/28a398fbd1be85e9a039e4d8940e1983/AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-12.0.1.aar/7a18718ae4e825ac4156a525788ba0af/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-12.0.1.aar/7a18718ae4e825ac4156a525788ba0af/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/cf9c067c0f333f9aec659bcb5c998df9/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/cf9c067c0f333f9aec659bcb5c998df9/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.1.aar/edfb878b2106be771968f62c387f2904/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.1.aar/edfb878b2106be771968f62c387f2904/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/08d35779d3494d8146d5c3f435d9bde4/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/08d35779d3494d8146d5c3f435d9bde4/AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from /media/the_spartan/A2108CEA108CC6AF/Users/Spartan/Desktop/Flappy Ball/android/AndroidManifest.xml:9:22-76
+application
+ADDED from /media/the_spartan/A2108CEA108CC6AF/Users/Spartan/Desktop/Flappy Ball/android/AndroidManifest.xml:11:5-36:19
+MERGED from [com.google.android.gms:play-services:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-12.0.1.aar/e871c29dcd6410ba72c0a8ebc1ed3e4d/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-12.0.1.aar/e871c29dcd6410ba72c0a8ebc1ed3e4d/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-cast-framework:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-12.0.1.aar/3d5028d4146a746f877d8daeede3056f/AndroidManifest.xml:7:5-12:19
+MERGED from [com.google.android.gms:play-services-cast-framework:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-12.0.1.aar/3d5028d4146a746f877d8daeede3056f/AndroidManifest.xml:7:5-12:19
+MERGED from [com.google.android.gms:play-services-cast:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-cast-12.0.1.aar/7f2aead5c45aee78ae64fe284ad9cd53/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-cast:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-cast-12.0.1.aar/7f2aead5c45aee78ae64fe284ad9cd53/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:mediarouter-v7:26.1.0] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-26.1.0.aar/59ce817b04df9382062561380bfb2ce4/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:mediarouter-v7:26.1.0] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-26.1.0.aar/59ce817b04df9382062561380bfb2ce4/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-12.0.1.aar/e91b11404732a477af7074091f914d05/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-12.0.1.aar/e91b11404732a477af7074091f914d05/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-analytics-12.0.1.aar/e3e038fd77d094317158723b26c1ef03/AndroidManifest.xml:29:5-45:19
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-analytics-12.0.1.aar/e3e038fd77d094317158723b26c1ef03/AndroidManifest.xml:29:5-45:19
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-v4-impl-12.0.1.aar/9f8a0a911e9920b8f335b8bdbbf713c1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-v4-impl-12.0.1.aar/9f8a0a911e9920b8f335b8bdbbf713c1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-12.0.1.aar/cb1fee45b8ba94d698c11daf725eee99/AndroidManifest.xml:29:5-20
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-12.0.1.aar/cb1fee45b8ba94d698c11daf725eee99/AndroidManifest.xml:29:5-20
+MERGED from [com.google.android.gms:play-services-appinvite:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-12.0.1.aar/5e959d1395ee95a6f8fc98facea6595f/AndroidManifest.xml:24:5-35:19
+MERGED from [com.google.android.gms:play-services-appinvite:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-12.0.1.aar/5e959d1395ee95a6f8fc98facea6595f/AndroidManifest.xml:24:5-35:19
+MERGED from [com.google.android.gms:play-services-auth:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.1.aar/1b3df44c3ac6d9d70e8e6aa33e6b4967/AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-auth:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.1.aar/1b3df44c3ac6d9d70e8e6aa33e6b4967/AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.firebase:firebase-config:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-config-12.0.1.aar/174394d313f5c4525eca1dd29c096090/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-config:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-config-12.0.1.aar/174394d313f5c4525eca1dd29c096090/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-awareness:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-awareness-12.0.1.aar/fa805760d8e32c70e08f4f4f81b0624b/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-awareness:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-awareness-12.0.1.aar/fa805760d8e32c70e08f4f4f81b0624b/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-games:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-games-12.0.1.aar/b89e12a140cb8741046131dec6662bcc/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-games:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-games-12.0.1.aar/b89e12a140cb8741046131dec6662bcc/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-drive:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-drive-12.0.1.aar/2bc6087baf600e019645935e1f0300b2/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-drive:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-drive-12.0.1.aar/2bc6087baf600e019645935e1f0300b2/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-fido:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-fido-12.0.1.aar/20f09e95859c1bcfb70589e1cd254ec1/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-fido:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-fido-12.0.1.aar/20f09e95859c1bcfb70589e1cd254ec1/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-auth-12.0.1.aar/f56e8d70763f1b5530477cb0fe208518/AndroidManifest.xml:22:5-30:19
+MERGED from [com.google.firebase:firebase-auth:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-auth-12.0.1.aar/f56e8d70763f1b5530477cb0fe208518/AndroidManifest.xml:22:5-30:19
+MERGED from [com.google.firebase:firebase-dynamic-links:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-dynamic-links-12.0.1.aar/606d406ffcf9dc2f82bdc2c8b8b2713c/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-dynamic-links:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-dynamic-links-12.0.1.aar/606d406ffcf9dc2f82bdc2c8b8b2713c/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-fitness:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-fitness-12.0.1.aar/eeb36e33dc1c9dd1fcb763030b758f71/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-fitness:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-fitness-12.0.1.aar/eeb36e33dc1c9dd1fcb763030b758f71/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-gcm:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-gcm-12.0.1.aar/6a91075109a037a1f4c010ea8f460085/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-gcm:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-gcm-12.0.1.aar/6a91075109a037a1f4c010ea8f460085/AndroidManifest.xml:26:5-20
+MERGED from [com.google.firebase:firebase-appindexing:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-appindexing-12.0.1.aar/1a1c9de544472de105bcf182a2a08b7f/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-appindexing:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-appindexing-12.0.1.aar/1a1c9de544472de105bcf182a2a08b7f/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-identity:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-identity-12.0.1.aar/b156fc63202cf28c3dc993be6e3207a4/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-identity:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-identity-12.0.1.aar/b156fc63202cf28c3dc993be6e3207a4/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-iid-12.0.1.aar/ee839b684468e144f1031ac8844f220f/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-iid-12.0.1.aar/ee839b684468e144f1031ac8844f220f/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-location:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-location-12.0.1.aar/c1dacd523e444131a22a957475943ab6/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-location-12.0.1.aar/c1dacd523e444131a22a957475943ab6/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-places:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-places-12.0.1.aar/63d39f5255f29791fc00e9647f3e494d/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-places-12.0.1.aar/63d39f5255f29791fc00e9647f3e494d/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-maps-12.0.1.aar/9e3367fadefe1087e20e532af592766c/AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-maps-12.0.1.aar/9e3367fadefe1087e20e532af592766c/AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-nearby:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-nearby-12.0.1.aar/28a398fbd1be85e9a039e4d8940e1983/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-nearby:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-nearby-12.0.1.aar/28a398fbd1be85e9a039e4d8940e1983/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-panorama:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-panorama-12.0.1.aar/5600b380d57657b0742491e0073f34a8/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-panorama:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-panorama-12.0.1.aar/5600b380d57657b0742491e0073f34a8/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-plus:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-plus-12.0.1.aar/e46b5f1ecedb6b1d5229c361f9cb3e7f/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-plus:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-plus-12.0.1.aar/e46b5f1ecedb6b1d5229c361f9cb3e7f/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-safetynet-12.0.1.aar/aa811f4d7ea8c63bc8ee5a32a67a68c5/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-safetynet-12.0.1.aar/aa811f4d7ea8c63bc8ee5a32a67a68c5/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-vision:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-vision-12.0.1.aar/12bcf545bd7d315bb4858819bb18fc21/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-vision-12.0.1.aar/12bcf545bd7d315bb4858819bb18fc21/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-12.0.1.aar/2a2df081e68ebb38a0ff6afa63feb0aa/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-12.0.1.aar/2a2df081e68ebb38a0ff6afa63feb0aa/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-wearable:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-wearable-12.0.1.aar/988a2fde55330341d8287cd6f757e7da/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-wearable:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-wearable-12.0.1.aar/988a2fde55330341d8287cd6f757e7da/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/08175c504ad2d10f5dfd5f085a61a8ee/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/08175c504ad2d10f5dfd5f085a61a8ee/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-crash:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-crash-12.0.1.aar/084900cc48cad54f57486423aba72ae5/AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.firebase:firebase-crash:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-crash-12.0.1.aar/084900cc48cad54f57486423aba72ae5/AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.firebase:firebase-messaging:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-messaging-12.0.1.aar/1516da3490d62fe727161e6b90a7846f/AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.firebase:firebase-messaging:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-messaging-12.0.1.aar/1516da3490d62fe727161e6b90a7846f/AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-12.0.1.aar/7a18718ae4e825ac4156a525788ba0af/AndroidManifest.xml:26:5-45:19
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-12.0.1.aar/7a18718ae4e825ac4156a525788ba0af/AndroidManifest.xml:26:5-45:19
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/cf9c067c0f333f9aec659bcb5c998df9/AndroidManifest.xml:27:5-52:19
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/cf9c067c0f333f9aec659bcb5c998df9/AndroidManifest.xml:27:5-52:19
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.1.aar/edfb878b2106be771968f62c387f2904/AndroidManifest.xml:27:5-38:19
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.1.aar/edfb878b2106be771968f62c387f2904/AndroidManifest.xml:27:5-38:19
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/08d35779d3494d8146d5c3f435d9bde4/AndroidManifest.xml:34:5-57:19
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/08d35779d3494d8146d5c3f435d9bde4/AndroidManifest.xml:34:5-57:19
+MERGED from [com.google.firebase:firebase-common:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-common-12.0.1.aar/74c2cd7bcb4d3a20fd9841d950efd8ba/AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.firebase:firebase-common:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-common-12.0.1.aar/74c2cd7bcb4d3a20fd9841d950efd8ba/AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.android.gms:play-services-gass:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-gass-12.0.1.aar/c18dbea51521507a933bb3541d775b6d/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-gass:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-gass-12.0.1.aar/c18dbea51521507a933bb3541d775b6d/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-tasks-12.0.1.aar/8163913dcc288eaa17b306f201e7b914/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-tasks-12.0.1.aar/8163913dcc288eaa17b306f201e7b914/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.1.aar/512d9e5e323cfb11ddfddd5013ba736f/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.1.aar/512d9e5e323cfb11ddfddd5013ba736f/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/b40109162278d4a7e8e14493efb9e733/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/b40109162278d4a7e8e14493efb9e733/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/bc7eed73db548b2b5d287fc468fd64d1/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/bc7eed73db548b2b5d287fc468fd64d1/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:palette-v7:26.1.0] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/palette-v7-26.1.0.aar/5a9f231819abe4817110c7fda50cefb6/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:palette-v7:26.1.0] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/palette-v7-26.1.0.aar/5a9f231819abe4817110c7fda50cefb6/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-ads-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-ads-license-12.0.1.aar/61406bd4e08102ea18c5ac29866ebc6c/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-ads-license-12.0.1.aar/61406bd4e08102ea18c5ac29866ebc6c/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-license-12.0.1.aar/e06ceedff1b95d9e6b2d747978d26638/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-license-12.0.1.aar/e06ceedff1b95d9e6b2d747978d26638/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-analytics-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-analytics-license-12.0.1.aar/b1872b20cdff0f075e312580f9348716/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-analytics-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-analytics-license-12.0.1.aar/b1872b20cdff0f075e312580f9348716/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-analytics-impl-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-license-12.0.1.aar/10a7513792a0dde1848bdca9e556e7f3/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-analytics-impl-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-license-12.0.1.aar/10a7513792a0dde1848bdca9e556e7f3/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-appinvite-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-license-12.0.1.aar/372cde9539f5c72ab1665b5fafb75d12/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-appinvite-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-license-12.0.1.aar/372cde9539f5c72ab1665b5fafb75d12/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-license-12.0.1.aar/43bd754e9d9f6c99d8259b4c9c9a62e2/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-license-12.0.1.aar/43bd754e9d9f6c99d8259b4c9c9a62e2/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-auth-base-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-license-12.0.1.aar/c4462cdb930d97f0d05871338f5af15a/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-auth-base-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-license-12.0.1.aar/c4462cdb930d97f0d05871338f5af15a/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-base-license-12.0.1.aar/bcdf21d302333ce543300002323b5d91/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-base-license-12.0.1.aar/bcdf21d302333ce543300002323b5d91/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-cast-framework-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-license-12.0.1.aar/16c96867b60c69012c299057968412c8/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-cast-framework-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-license-12.0.1.aar/16c96867b60c69012c299057968412c8/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-cast-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-cast-license-12.0.1.aar/495fde76c09f315152e4ad384247c719/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-cast-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-cast-license-12.0.1.aar/495fde76c09f315152e4ad384247c719/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-12.0.1.aar/f471b7cd02fb2ab242fc8f447d711868/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-12.0.1.aar/f471b7cd02fb2ab242fc8f447d711868/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-config-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-config-license-12.0.1.aar/43468a83e5a5beaaabd1a5b12091fb12/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-config-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-config-license-12.0.1.aar/43468a83e5a5beaaabd1a5b12091fb12/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-awareness-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-awareness-license-12.0.1.aar/567068ac13076aaf064f32ae03e42b46/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-awareness-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-awareness-license-12.0.1.aar/567068ac13076aaf064f32ae03e42b46/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-crash-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-crash-license-12.0.1.aar/366a20c7142845c42ef2797d9f16b953/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-crash-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-crash-license-12.0.1.aar/366a20c7142845c42ef2797d9f16b953/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-drive-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-drive-license-12.0.1.aar/411eebbc873cd5d709281154ee012e9a/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-drive-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-drive-license-12.0.1.aar/411eebbc873cd5d709281154ee012e9a/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-fido-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-fido-license-12.0.1.aar/92f4c792dbec179c3041c15eba9695ce/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-fido-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-fido-license-12.0.1.aar/92f4c792dbec179c3041c15eba9695ce/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-auth-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-auth-license-12.0.1.aar/86c7bd6a663fc14ea8f74e7a93d12c69/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-auth-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-auth-license-12.0.1.aar/86c7bd6a663fc14ea8f74e7a93d12c69/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-database-connection-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-license-12.0.1.aar/0a427dcc4d7373437f1926f0592f40f5/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-database-connection-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-license-12.0.1.aar/0a427dcc4d7373437f1926f0592f40f5/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-database-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-database-license-12.0.1.aar/83f48684f87fdc3c9336928a6e5ba5e8/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-database-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-database-license-12.0.1.aar/83f48684f87fdc3c9336928a6e5ba5e8/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-dynamic-links-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-dynamic-links-license-12.0.1.aar/116ba85aba68b8d1720b3271c93f1738/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-dynamic-links-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-dynamic-links-license-12.0.1.aar/116ba85aba68b8d1720b3271c93f1738/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-iid-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-12.0.1.aar/a03382d021bad7161b74bc64209394a2/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-iid-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-12.0.1.aar/a03382d021bad7161b74bc64209394a2/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-messaging-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-messaging-license-12.0.1.aar/b089026e226d9d62ac2db1d2d00f5728/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-messaging-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-messaging-license-12.0.1.aar/b089026e226d9d62ac2db1d2d00f5728/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-storage-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-storage-license-12.0.1.aar/c89443e5d8cf982baa7b643ac869895f/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-storage-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-storage-license-12.0.1.aar/c89443e5d8cf982baa7b643ac869895f/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-storage-common-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-license-12.0.1.aar/f8fdb01c18f28a5f577a0e64a09c76a1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-storage-common-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-license-12.0.1.aar/f8fdb01c18f28a5f577a0e64a09c76a1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-common-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-common-license-12.0.1.aar/ea577d892c7bbe6f23b0e1e98dbcabfc/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-common-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-common-license-12.0.1.aar/ea577d892c7bbe6f23b0e1e98dbcabfc/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-fitness-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-fitness-license-12.0.1.aar/8a582b2ebd650aadf35da1c4b4bc1713/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-fitness-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-fitness-license-12.0.1.aar/8a582b2ebd650aadf35da1c4b4bc1713/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-games-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-games-license-12.0.1.aar/b464e1b211bedc99dc9d7add1050dadd/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-games-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-games-license-12.0.1.aar/b464e1b211bedc99dc9d7add1050dadd/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-gass-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-gass-license-12.0.1.aar/fac0d7cfb33d636313d0dd5bebaf66ad/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-gass-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-gass-license-12.0.1.aar/fac0d7cfb33d636313d0dd5bebaf66ad/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-gcm-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-gcm-license-12.0.1.aar/3add8ba26c2aec1aaabb2d83cb01e8e6/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-gcm-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-gcm-license-12.0.1.aar/3add8ba26c2aec1aaabb2d83cb01e8e6/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-appindexing-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-appindexing-license-12.0.1.aar/3dd17e2a860d05d25b7211a2d5adbb6f/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-appindexing-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-appindexing-license-12.0.1.aar/3dd17e2a860d05d25b7211a2d5adbb6f/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-identity-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-identity-license-12.0.1.aar/4ec6ca7e358d3ca1c75c50efca7f3f0b/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-identity-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-identity-license-12.0.1.aar/4ec6ca7e358d3ca1c75c50efca7f3f0b/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-iid-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-iid-license-12.0.1.aar/2fb1cd094de57518d166548124a53c66/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-iid-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-iid-license-12.0.1.aar/2fb1cd094de57518d166548124a53c66/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-instantapps-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-instantapps-license-12.0.1.aar/688625ef3d9ce23e4537ee92df436d67/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-instantapps-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-instantapps-license-12.0.1.aar/688625ef3d9ce23e4537ee92df436d67/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-location-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-location-license-12.0.1.aar/313a034a27462fb53666528b95125ea5/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-location-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-location-license-12.0.1.aar/313a034a27462fb53666528b95125ea5/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-maps-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-maps-license-12.0.1.aar/8857ea12aa7d7ff7891ff6524defcb02/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-maps-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-maps-license-12.0.1.aar/8857ea12aa7d7ff7891ff6524defcb02/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-analytics-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-12.0.1.aar/6c68d639e415feb7d093d320fdd01cbc/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-analytics-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-12.0.1.aar/6c68d639e415feb7d093d320fdd01cbc/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-analytics-impl-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-12.0.1.aar/1ce2184f9ddc43b60ef266fdadb33a9e/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-analytics-impl-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-12.0.1.aar/1ce2184f9ddc43b60ef266fdadb33a9e/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-nearby-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-nearby-license-12.0.1.aar/5b4d4688577a7a833ef48a31b7c4fcb5/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-nearby-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-nearby-license-12.0.1.aar/5b4d4688577a7a833ef48a31b7c4fcb5/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-panorama-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-panorama-license-12.0.1.aar/e5fe071d32775a32cdd9494b68fefc24/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-panorama-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-panorama-license-12.0.1.aar/e5fe071d32775a32cdd9494b68fefc24/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-places-license-12.0.1.aar/1e3d9372c96a0aa40b1634a33c61b9ac/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-places-license-12.0.1.aar/1e3d9372c96a0aa40b1634a33c61b9ac/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-plus-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-plus-license-12.0.1.aar/6eb684cc1b69b056122cea90675d7adc/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-plus-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-plus-license-12.0.1.aar/6eb684cc1b69b056122cea90675d7adc/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-safetynet-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-safetynet-license-12.0.1.aar/eb06e947eed24aabb6cbe7a2c221d517/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-safetynet-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-safetynet-license-12.0.1.aar/eb06e947eed24aabb6cbe7a2c221d517/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-api-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-license-12.0.1.aar/d2e5619220456c464e1681faa5a8d0a3/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-api-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-license-12.0.1.aar/d2e5619220456c464e1681faa5a8d0a3/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-license-12.0.1.aar/582b289c6ee1f3f8497a9ce6720c3964/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-license-12.0.1.aar/582b289c6ee1f3f8497a9ce6720c3964/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-v4-impl-license-12.0.1.aar/68df6667b849f0f00131a2a0115f2db5/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-v4-impl-license-12.0.1.aar/68df6667b849f0f00131a2a0115f2db5/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-12.0.1.aar/463b27a23be878aeabe3d4ecdcdc2e20/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-12.0.1.aar/463b27a23be878aeabe3d4ecdcdc2e20/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-license-12.0.1.aar/a2ff5500dc7f69d8a677cfb8e05d96b2/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-license-12.0.1.aar/a2ff5500dc7f69d8a677cfb8e05d96b2/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-vision-license-12.0.1.aar/dd0c4926318d274801e14d9b26fede14/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-vision-license-12.0.1.aar/dd0c4926318d274801e14d9b26fede14/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-wallet-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-wallet-license-12.0.1.aar/e15b0a3c9b4a173219285c56a81a6de0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-wallet-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-wallet-license-12.0.1.aar/e15b0a3c9b4a173219285c56a81a6de0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-wearable-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-wearable-license-12.0.1.aar/2b23a42cbd1b531330d7f2df0b81bfcd/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-wearable-license:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-wearable-license-12.0.1.aar/2b23a42cbd1b531330d7f2df0b81bfcd/AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from /media/the_spartan/A2108CEA108CC6AF/Users/Spartan/Desktop/Flappy Ball/android/AndroidManifest.xml:14:9-41
+	android:icon
+		ADDED from /media/the_spartan/A2108CEA108CC6AF/Users/Spartan/Desktop/Flappy Ball/android/AndroidManifest.xml:13:9-45
+	android:allowBackup
+		ADDED from /media/the_spartan/A2108CEA108CC6AF/Users/Spartan/Desktop/Flappy Ball/android/AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from /media/the_spartan/A2108CEA108CC6AF/Users/Spartan/Desktop/Flappy Ball/android/AndroidManifest.xml:15:9-40
+meta-data#com.google.android.gms.version
+ADDED from /media/the_spartan/A2108CEA108CC6AF/Users/Spartan/Desktop/Flappy Ball/android/AndroidManifest.xml:17:9-18:69
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.1.aar/512d9e5e323cfb11ddfddd5013ba736f/AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.1.aar/512d9e5e323cfb11ddfddd5013ba736f/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from /media/the_spartan/A2108CEA108CC6AF/Users/Spartan/Desktop/Flappy Ball/android/AndroidManifest.xml:18:13-66
+	android:name
+		ADDED from /media/the_spartan/A2108CEA108CC6AF/Users/Spartan/Desktop/Flappy Ball/android/AndroidManifest.xml:17:20-65
+activity#com.the_spartan.flappy_ball.AndroidLauncher
+ADDED from /media/the_spartan/A2108CEA108CC6AF/Users/Spartan/Desktop/Flappy Ball/android/AndroidManifest.xml:20:9-29:20
+	android:screenOrientation
+		ADDED from /media/the_spartan/A2108CEA108CC6AF/Users/Spartan/Desktop/Flappy Ball/android/AndroidManifest.xml:23:13-49
+	android:label
+		ADDED from /media/the_spartan/A2108CEA108CC6AF/Users/Spartan/Desktop/Flappy Ball/android/AndroidManifest.xml:22:13-45
+	android:configChanges
+		ADDED from /media/the_spartan/A2108CEA108CC6AF/Users/Spartan/Desktop/Flappy Ball/android/AndroidManifest.xml:24:13-94
+	android:name
+		ADDED from /media/the_spartan/A2108CEA108CC6AF/Users/Spartan/Desktop/Flappy Ball/android/AndroidManifest.xml:21:13-71
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /media/the_spartan/A2108CEA108CC6AF/Users/Spartan/Desktop/Flappy Ball/android/AndroidManifest.xml:25:13-28:29
+action#android.intent.action.MAIN
+ADDED from /media/the_spartan/A2108CEA108CC6AF/Users/Spartan/Desktop/Flappy Ball/android/AndroidManifest.xml:26:17-69
+	android:name
+		ADDED from /media/the_spartan/A2108CEA108CC6AF/Users/Spartan/Desktop/Flappy Ball/android/AndroidManifest.xml:26:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /media/the_spartan/A2108CEA108CC6AF/Users/Spartan/Desktop/Flappy Ball/android/AndroidManifest.xml:27:17-77
+	android:name
+		ADDED from /media/the_spartan/A2108CEA108CC6AF/Users/Spartan/Desktop/Flappy Ball/android/AndroidManifest.xml:27:27-74
+activity#com.google.android.gms.ads.AdActivity
+ADDED from /media/the_spartan/A2108CEA108CC6AF/Users/Spartan/Desktop/Flappy Ball/android/AndroidManifest.xml:31:9-34:124
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-12.0.1.aar/e91b11404732a477af7074091f914d05/AndroidManifest.xml:29:9-33:64
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-12.0.1.aar/e91b11404732a477af7074091f914d05/AndroidManifest.xml:29:9-33:64
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-12.0.1.aar/e91b11404732a477af7074091f914d05/AndroidManifest.xml:32:13-37
+	android:configChanges
+		ADDED from /media/the_spartan/A2108CEA108CC6AF/Users/Spartan/Desktop/Flappy Ball/android/AndroidManifest.xml:34:13-122
+	android:theme
+		ADDED from /media/the_spartan/A2108CEA108CC6AF/Users/Spartan/Desktop/Flappy Ball/android/AndroidManifest.xml:33:13-61
+	android:name
+		ADDED from /media/the_spartan/A2108CEA108CC6AF/Users/Spartan/Desktop/Flappy Ball/android/AndroidManifest.xml:32:13-65
+receiver#com.google.android.gms.cast.framework.media.MediaIntentReceiver
+ADDED from [com.google.android.gms:play-services-cast-framework:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-12.0.1.aar/3d5028d4146a746f877d8daeede3056f/AndroidManifest.xml:8:9-100
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-12.0.1.aar/3d5028d4146a746f877d8daeede3056f/AndroidManifest.xml:8:19-97
+service#com.google.android.gms.cast.framework.media.MediaNotificationService
+ADDED from [com.google.android.gms:play-services-cast-framework:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-12.0.1.aar/3d5028d4146a746f877d8daeede3056f/AndroidManifest.xml:10:9-104
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-12.0.1.aar/3d5028d4146a746f877d8daeede3056f/AndroidManifest.xml:10:18-101
+service#com.google.android.gms.cast.framework.ReconnectionService
+ADDED from [com.google.android.gms:play-services-cast-framework:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-12.0.1.aar/3d5028d4146a746f877d8daeede3056f/AndroidManifest.xml:11:9-93
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-12.0.1.aar/3d5028d4146a746f877d8daeede3056f/AndroidManifest.xml:11:18-90
+meta-data#android.support.VERSION
+ADDED from [com.android.support:mediarouter-v7:26.1.0] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-26.1.0.aar/59ce817b04df9382062561380bfb2ce4/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/b40109162278d4a7e8e14493efb9e733/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/b40109162278d4a7e8e14493efb9e733/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/bc7eed73db548b2b5d287fc468fd64d1/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/bc7eed73db548b2b5d287fc468fd64d1/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:palette-v7:26.1.0] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/palette-v7-26.1.0.aar/5a9f231819abe4817110c7fda50cefb6/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:palette-v7:26.1.0] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/palette-v7-26.1.0.aar/5a9f231819abe4817110c7fda50cefb6/AndroidManifest.xml:23:9-25:38
+	android:value
+		ADDED from [com.android.support:mediarouter-v7:26.1.0] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-26.1.0.aar/59ce817b04df9382062561380bfb2ce4/AndroidManifest.xml:25:13-35
+	android:name
+		ADDED from [com.android.support:mediarouter-v7:26.1.0] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-26.1.0.aar/59ce817b04df9382062561380bfb2ce4/AndroidManifest.xml:24:13-51
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-analytics-12.0.1.aar/e3e038fd77d094317158723b26c1ef03/AndroidManifest.xml:27:5-68
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-12.0.1.aar/cb1fee45b8ba94d698c11daf725eee99/AndroidManifest.xml:27:5-68
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-12.0.1.aar/cb1fee45b8ba94d698c11daf725eee99/AndroidManifest.xml:27:5-68
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/cf9c067c0f333f9aec659bcb5c998df9/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/cf9c067c0f333f9aec659bcb5c998df9/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.1.aar/edfb878b2106be771968f62c387f2904/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.1.aar/edfb878b2106be771968f62c387f2904/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/08d35779d3494d8146d5c3f435d9bde4/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/08d35779d3494d8146d5c3f435d9bde4/AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-analytics-12.0.1.aar/e3e038fd77d094317158723b26c1ef03/AndroidManifest.xml:27:22-65
+receiver#com.google.android.gms.analytics.AnalyticsReceiver
+ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-analytics-12.0.1.aar/e3e038fd77d094317158723b26c1ef03/AndroidManifest.xml:30:9-34:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-analytics-12.0.1.aar/e3e038fd77d094317158723b26c1ef03/AndroidManifest.xml:32:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-analytics-12.0.1.aar/e3e038fd77d094317158723b26c1ef03/AndroidManifest.xml:33:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-analytics-12.0.1.aar/e3e038fd77d094317158723b26c1ef03/AndroidManifest.xml:31:13-78
+service#com.google.android.gms.analytics.AnalyticsService
+ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-analytics-12.0.1.aar/e3e038fd77d094317158723b26c1ef03/AndroidManifest.xml:36:9-39:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-analytics-12.0.1.aar/e3e038fd77d094317158723b26c1ef03/AndroidManifest.xml:38:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-analytics-12.0.1.aar/e3e038fd77d094317158723b26c1ef03/AndroidManifest.xml:39:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-analytics-12.0.1.aar/e3e038fd77d094317158723b26c1ef03/AndroidManifest.xml:37:13-77
+service#com.google.android.gms.analytics.AnalyticsJobService
+ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-analytics-12.0.1.aar/e3e038fd77d094317158723b26c1ef03/AndroidManifest.xml:40:9-44:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-analytics-12.0.1.aar/e3e038fd77d094317158723b26c1ef03/AndroidManifest.xml:42:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-analytics-12.0.1.aar/e3e038fd77d094317158723b26c1ef03/AndroidManifest.xml:43:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-analytics-12.0.1.aar/e3e038fd77d094317158723b26c1ef03/AndroidManifest.xml:44:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-analytics-12.0.1.aar/e3e038fd77d094317158723b26c1ef03/AndroidManifest.xml:41:13-80
+activity#com.google.android.gms.appinvite.PreviewActivity
+ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-12.0.1.aar/5e959d1395ee95a6f8fc98facea6595f/AndroidManifest.xml:25:9-34:20
+	android:exported
+		ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-12.0.1.aar/5e959d1395ee95a6f8fc98facea6595f/AndroidManifest.xml:27:13-36
+	android:theme
+		ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-12.0.1.aar/5e959d1395ee95a6f8fc98facea6595f/AndroidManifest.xml:28:13-59
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-12.0.1.aar/5e959d1395ee95a6f8fc98facea6595f/AndroidManifest.xml:26:13-76
+intent-filter#action:name:com.google.android.gms.appinvite.ACTION_PREVIEW+category:name:android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-12.0.1.aar/5e959d1395ee95a6f8fc98facea6595f/AndroidManifest.xml:29:13-33:29
+action#com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-12.0.1.aar/5e959d1395ee95a6f8fc98facea6595f/AndroidManifest.xml:30:17-90
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-12.0.1.aar/5e959d1395ee95a6f8fc98facea6595f/AndroidManifest.xml:30:25-87
+category#android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-12.0.1.aar/5e959d1395ee95a6f8fc98facea6595f/AndroidManifest.xml:32:17-76
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-12.0.1.aar/5e959d1395ee95a6f8fc98facea6595f/AndroidManifest.xml:32:27-73
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.1.aar/1b3df44c3ac6d9d70e8e6aa33e6b4967/AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.1.aar/1b3df44c3ac6d9d70e8e6aa33e6b4967/AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.1.aar/1b3df44c3ac6d9d70e8e6aa33e6b4967/AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.1.aar/1b3df44c3ac6d9d70e8e6aa33e6b4967/AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.1.aar/1b3df44c3ac6d9d70e8e6aa33e6b4967/AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.1.aar/1b3df44c3ac6d9d70e8e6aa33e6b4967/AndroidManifest.xml:33:9-36:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.1.aar/1b3df44c3ac6d9d70e8e6aa33e6b4967/AndroidManifest.xml:35:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.1.aar/1b3df44c3ac6d9d70e8e6aa33e6b4967/AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.1.aar/1b3df44c3ac6d9d70e8e6aa33e6b4967/AndroidManifest.xml:34:13-89
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [com.google.firebase:firebase-auth:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-auth-12.0.1.aar/f56e8d70763f1b5530477cb0fe208518/AndroidManifest.xml:23:9-29:75
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-auth-12.0.1.aar/f56e8d70763f1b5530477cb0fe208518/AndroidManifest.xml:25:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-auth-12.0.1.aar/f56e8d70763f1b5530477cb0fe208518/AndroidManifest.xml:27:13-48
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-auth-12.0.1.aar/f56e8d70763f1b5530477cb0fe208518/AndroidManifest.xml:26:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-auth:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-auth-12.0.1.aar/f56e8d70763f1b5530477cb0fe208518/AndroidManifest.xml:28:13-102
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-auth-12.0.1.aar/f56e8d70763f1b5530477cb0fe208518/AndroidManifest.xml:29:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-auth-12.0.1.aar/f56e8d70763f1b5530477cb0fe208518/AndroidManifest.xml:24:13-85
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-gcm-12.0.1.aar/6a91075109a037a1f4c010ea8f460085/AndroidManifest.xml:23:5-82
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-iid-12.0.1.aar/ee839b684468e144f1031ac8844f220f/AndroidManifest.xml:23:5-82
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-iid-12.0.1.aar/ee839b684468e144f1031ac8844f220f/AndroidManifest.xml:23:5-82
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/08d35779d3494d8146d5c3f435d9bde4/AndroidManifest.xml:26:5-82
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/08d35779d3494d8146d5c3f435d9bde4/AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-gcm-12.0.1.aar/6a91075109a037a1f4c010ea8f460085/AndroidManifest.xml:23:22-79
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-maps-12.0.1.aar/9e3367fadefe1087e20e532af592766c/AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-maps-12.0.1.aar/9e3367fadefe1087e20e532af592766c/AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-maps-12.0.1.aar/9e3367fadefe1087e20e532af592766c/AndroidManifest.xml:28:9-32
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/08175c504ad2d10f5dfd5f085a61a8ee/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/08175c504ad2d10f5dfd5f085a61a8ee/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/08175c504ad2d10f5dfd5f085a61a8ee/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/08175c504ad2d10f5dfd5f085a61a8ee/AndroidManifest.xml:24:13-79
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-messaging-12.0.1.aar/1516da3490d62fe727161e6b90a7846f/AndroidManifest.xml:28:9-34:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-messaging-12.0.1.aar/1516da3490d62fe727161e6b90a7846f/AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-messaging-12.0.1.aar/1516da3490d62fe727161e6b90a7846f/AndroidManifest.xml:29:13-82
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-messaging-12.0.1.aar/1516da3490d62fe727161e6b90a7846f/AndroidManifest.xml:31:13-33:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-messaging-12.0.1.aar/1516da3490d62fe727161e6b90a7846f/AndroidManifest.xml:31:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-messaging-12.0.1.aar/1516da3490d62fe727161e6b90a7846f/AndroidManifest.xml:32:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-messaging-12.0.1.aar/1516da3490d62fe727161e6b90a7846f/AndroidManifest.xml:32:25-75
+service#com.google.android.gms.tagmanager.TagManagerService
+ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-12.0.1.aar/7a18718ae4e825ac4156a525788ba0af/AndroidManifest.xml:27:9-30:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-12.0.1.aar/7a18718ae4e825ac4156a525788ba0af/AndroidManifest.xml:29:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-12.0.1.aar/7a18718ae4e825ac4156a525788ba0af/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-12.0.1.aar/7a18718ae4e825ac4156a525788ba0af/AndroidManifest.xml:28:13-79
+activity#com.google.android.gms.tagmanager.TagManagerPreviewActivity
+ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-12.0.1.aar/7a18718ae4e825ac4156a525788ba0af/AndroidManifest.xml:32:9-44:20
+	android:noHistory
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-12.0.1.aar/7a18718ae4e825ac4156a525788ba0af/AndroidManifest.xml:35:13-37
+	android:exported
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-12.0.1.aar/7a18718ae4e825ac4156a525788ba0af/AndroidManifest.xml:34:13-36
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-12.0.1.aar/7a18718ae4e825ac4156a525788ba0af/AndroidManifest.xml:33:13-87
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:tagmanager.c.${applicationId}
+ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-12.0.1.aar/7a18718ae4e825ac4156a525788ba0af/AndroidManifest.xml:36:13-43:29
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:tagmanager.c.com.the_spartan.flappy_ball
+ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-12.0.1.aar/7a18718ae4e825ac4156a525788ba0af/AndroidManifest.xml:36:13-43:29
+data
+ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-12.0.1.aar/7a18718ae4e825ac4156a525788ba0af/AndroidManifest.xml:37:17-72
+	android:scheme
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-12.0.1.aar/7a18718ae4e825ac4156a525788ba0af/AndroidManifest.xml:37:23-69
+action#android.intent.action.VIEW
+ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-12.0.1.aar/7a18718ae4e825ac4156a525788ba0af/AndroidManifest.xml:39:17-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-12.0.1.aar/7a18718ae4e825ac4156a525788ba0af/AndroidManifest.xml:39:25-66
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-12.0.1.aar/7a18718ae4e825ac4156a525788ba0af/AndroidManifest.xml:42:17-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-12.0.1.aar/7a18718ae4e825ac4156a525788ba0af/AndroidManifest.xml:42:27-75
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/cf9c067c0f333f9aec659bcb5c998df9/AndroidManifest.xml:28:9-32:20
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.1.aar/edfb878b2106be771968f62c387f2904/AndroidManifest.xml:28:9-32:20
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.1.aar/edfb878b2106be771968f62c387f2904/AndroidManifest.xml:28:9-32:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/cf9c067c0f333f9aec659bcb5c998df9/AndroidManifest.xml:30:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/cf9c067c0f333f9aec659bcb5c998df9/AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/cf9c067c0f333f9aec659bcb5c998df9/AndroidManifest.xml:29:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/cf9c067c0f333f9aec659bcb5c998df9/AndroidManifest.xml:33:9-41:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/cf9c067c0f333f9aec659bcb5c998df9/AndroidManifest.xml:35:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/cf9c067c0f333f9aec659bcb5c998df9/AndroidManifest.xml:36:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/cf9c067c0f333f9aec659bcb5c998df9/AndroidManifest.xml:37:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/cf9c067c0f333f9aec659bcb5c998df9/AndroidManifest.xml:34:13-100
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/cf9c067c0f333f9aec659bcb5c998df9/AndroidManifest.xml:38:13-40:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/cf9c067c0f333f9aec659bcb5c998df9/AndroidManifest.xml:39:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/cf9c067c0f333f9aec659bcb5c998df9/AndroidManifest.xml:39:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/cf9c067c0f333f9aec659bcb5c998df9/AndroidManifest.xml:43:9-46:40
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.1.aar/edfb878b2106be771968f62c387f2904/AndroidManifest.xml:34:9-37:40
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.1.aar/edfb878b2106be771968f62c387f2904/AndroidManifest.xml:34:9-37:40
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/cf9c067c0f333f9aec659bcb5c998df9/AndroidManifest.xml:45:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/cf9c067c0f333f9aec659bcb5c998df9/AndroidManifest.xml:46:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/cf9c067c0f333f9aec659bcb5c998df9/AndroidManifest.xml:44:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/cf9c067c0f333f9aec659bcb5c998df9/AndroidManifest.xml:47:9-51:72
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/cf9c067c0f333f9aec659bcb5c998df9/AndroidManifest.xml:49:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/cf9c067c0f333f9aec659bcb5c998df9/AndroidManifest.xml:50:13-37
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/cf9c067c0f333f9aec659bcb5c998df9/AndroidManifest.xml:51:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/cf9c067c0f333f9aec659bcb5c998df9/AndroidManifest.xml:48:13-87
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/08d35779d3494d8146d5c3f435d9bde4/AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/08d35779d3494d8146d5c3f435d9bde4/AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/08d35779d3494d8146d5c3f435d9bde4/AndroidManifest.xml:29:9-63
+permission#com.the_spartan.flappy_ball.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/08d35779d3494d8146d5c3f435d9bde4/AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/08d35779d3494d8146d5c3f435d9bde4/AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/08d35779d3494d8146d5c3f435d9bde4/AndroidManifest.xml:29:9-63
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/08d35779d3494d8146d5c3f435d9bde4/AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/08d35779d3494d8146d5c3f435d9bde4/AndroidManifest.xml:32:22-76
+uses-permission#com.the_spartan.flappy_ball.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/08d35779d3494d8146d5c3f435d9bde4/AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/08d35779d3494d8146d5c3f435d9bde4/AndroidManifest.xml:32:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/08d35779d3494d8146d5c3f435d9bde4/AndroidManifest.xml:35:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/08d35779d3494d8146d5c3f435d9bde4/AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/08d35779d3494d8146d5c3f435d9bde4/AndroidManifest.xml:38:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/08d35779d3494d8146d5c3f435d9bde4/AndroidManifest.xml:36:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:${applicationId}
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/08d35779d3494d8146d5c3f435d9bde4/AndroidManifest.xml:39:13-43:29
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:com.the_spartan.flappy_ball
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/08d35779d3494d8146d5c3f435d9bde4/AndroidManifest.xml:39:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/08d35779d3494d8146d5c3f435d9bde4/AndroidManifest.xml:40:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/08d35779d3494d8146d5c3f435d9bde4/AndroidManifest.xml:40:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/08d35779d3494d8146d5c3f435d9bde4/AndroidManifest.xml:42:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/08d35779d3494d8146d5c3f435d9bde4/AndroidManifest.xml:42:27-58
+category#com.the_spartan.flappy_ball
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/08d35779d3494d8146d5c3f435d9bde4/AndroidManifest.xml:42:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/08d35779d3494d8146d5c3f435d9bde4/AndroidManifest.xml:42:27-58
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/08d35779d3494d8146d5c3f435d9bde4/AndroidManifest.xml:50:9-56:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/08d35779d3494d8146d5c3f435d9bde4/AndroidManifest.xml:52:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/08d35779d3494d8146d5c3f435d9bde4/AndroidManifest.xml:51:13-77
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/08d35779d3494d8146d5c3f435d9bde4/AndroidManifest.xml:53:13-55:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/08d35779d3494d8146d5c3f435d9bde4/AndroidManifest.xml:53:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/08d35779d3494d8146d5c3f435d9bde4/AndroidManifest.xml:54:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/08d35779d3494d8146d5c3f435d9bde4/AndroidManifest.xml:54:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-common-12.0.1.aar/74c2cd7bcb4d3a20fd9841d950efd8ba/AndroidManifest.xml:8:9-12:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-common-12.0.1.aar/74c2cd7bcb4d3a20fd9841d950efd8ba/AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-common-12.0.1.aar/74c2cd7bcb4d3a20fd9841d950efd8ba/AndroidManifest.xml:11:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-common-12.0.1.aar/74c2cd7bcb4d3a20fd9841d950efd8ba/AndroidManifest.xml:12:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:12.0.1] /home/the_spartan/.gradle/caches/transforms-1/files-1.1/firebase-common-12.0.1.aar/74c2cd7bcb4d3a20fd9841d950efd8ba/AndroidManifest.xml:9:13-77

@@ -1,0 +1,19 @@
+
+mainMenuButtons.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+playButton
+  rotate: false
+  xy: 1, 1
+  size: 230, 175
+  orig: 230, 175
+  offset: 0, 0
+  index: -1
+rateButton
+  rotate: false
+  xy: 233, 1
+  size: 230, 175
+  orig: 230, 175
+  offset: 0, 0
+  index: -1
